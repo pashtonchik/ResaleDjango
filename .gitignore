@@ -12,5 +12,5 @@ skillp2p/__pycache__/
 info.log
 error.log
 debug.log
-orderlist
+orders_images
 .env
