@@ -1,0 +1,15 @@
+venv
+db.sqlite3
+dispatcher/migrations/*
+scanner/migrations/*
+!dispatcher/migrations/__init__.py
+!scanner/migrations/__init__.py
+.idea
+__pycache__/
+dispatcher/__pycache__/
+dispatcher/migrations/__pycache__/
+skillp2p/__pycache__/
+info.log
+error.log
+debug.log
+.env
